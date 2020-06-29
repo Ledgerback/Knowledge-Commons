@@ -1,0 +1,1 @@
+- [Design review checklist for distributed systems](https://www.kislayverma.com/post/design-review-checklist-for-distributed-systems)
