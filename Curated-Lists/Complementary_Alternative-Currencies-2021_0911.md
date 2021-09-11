@@ -26,7 +26,7 @@
 2. [Grassroots Economics](https://www.grassrootseconomics.org/)
 3. [Basic Income Earth Network](https://basicincome.org/)
 4. [WIR Bank](https://www.wir.ch/de/)
-5. 
+5. [Commonsstack]()
 
 # Un/underrecognized Value
 
