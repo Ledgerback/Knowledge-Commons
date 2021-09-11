@@ -19,6 +19,7 @@
 
 1. [From Student Loans to Student Currencies](https://www.grassrootseconomics.org/post/from-student-loans-to-student-currencies)
 2. [The UK’s ‘Local Currencies’ Are Going Crypto](https://decrypt.co/76033/the-uks-local-currencies-are-going-crypto)
+3. **[WHAT COUNTS? Signaling our values through creative currencies](https://pnca.edu/pdf/currency-publication-rd10.pdf)**
 
 # Organizations
 
