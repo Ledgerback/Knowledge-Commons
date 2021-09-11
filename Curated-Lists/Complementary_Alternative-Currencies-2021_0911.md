@@ -28,6 +28,7 @@
 3. [Basic Income Earth Network](https://basicincome.org/)
 4. [WIR Bank](https://www.wir.ch/de/)
 5. [Commonsstack]()
+6. [Helsinki Timebank](https://stadinaikapankki.wordpress.com/in-english/helsinki-timebanks-abc/)
 
 # Un/underrecognized Value
 
