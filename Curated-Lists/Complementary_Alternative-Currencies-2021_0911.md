@@ -38,5 +38,9 @@
 
 1. [links on community currencies](https://docs.google.com/document/d/1gVuolh6TV7fH5tNTyZMCDGTsFFJeOWCP-X0Diwnj7MA/edit)
 
+# Interesting Examples
+
+1. [Dragon kill points](https://en.wikipedia.org/wiki/Dragon_kill_points)
+
 
 
